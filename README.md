@@ -1,3 +1,8 @@
+<!-- Banner SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C6C9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdallah+S.+Yousef+%F0%9F%91%8B;Engineer+%7C+Researcher+%7C+Mentor;RF+%2B+AI+%2B+FPGA+Enthusiast" alt="Typing SVG" />
+</p>
+
 # 👋 Hi, I'm Abdallah S. Yousef
 
 ### 🎯 Research Assistant | Embedded Systems Engineer | Antenna & Radar Specialist | AI for Defense Tech
@@ -50,8 +55,8 @@ To bridge the gap between classical RF/microwave systems and modern AI approache
 
 ## 💡 Let's Connect!
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/abdallah-s-yousef-0a89b713a)
-- ✉️ abdallah.s.yousef@ieee.org
+- 🌐 [LinkedIn](www.linkedin.com/in/abdallah-s-yousef)
+- ✉️ a.s.yousef@ieee.org
 - 💬 Open to research collaborations, student mentorship, and applied R&D consulting.
 
 ---
