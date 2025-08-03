@@ -1,7 +1,8 @@
 <!-- Banner SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C6C9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdallah+S.+Yousef+%F0%9F%91%8B;Engineer+%7C+Researcher+%7C+Mentor;RF+%2B+AI+%2B+FPGA+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00C6C9&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Abdallah+S.+Yousef+%F0%9F%91%8B;Engineer+%7C+Researcher+%7C+Mentor;RF+%2B+AI+%2B+Aerospace" alt="Typing SVG" />
 </p>
+
 
 # 👋 Hi, I'm Abdallah S. Yousef
 
@@ -25,6 +26,37 @@ To bridge the gap between classical RF/microwave systems and modern AI approache
 - 🔧 **Embedded Systems (ARM Cortex, Vitis, Python, C#)**
 - 📊 **System Design, Optimization & Prototyping**
 - 🎓 **Academic Teaching & Technical Mentoring**
+
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=texasinstruments&logoColor=white" alt="Embedded C"/>
+
+  <!-- Simulation & Design -->
+  <img src="https://img.shields.io/badge/HFSS-ANSYS-blue?style=for-the-badge" alt="HFSS"/>
+  <img src="https://img.shields.io/badge/ADS-Keysight-red?style=for-the-badge" alt="ADS"/>
+  <img src="https://img.shields.io/badge/CST-Studio Suite-005F9E?style=for-the-badge" alt="CST"/>
+  <img src="https://img.shields.io/badge/SolidWorks-FEA700?style=for-the-badge&logo=solidworks&logoColor=white" alt="SolidWorks"/>
+
+  <!-- PCB Design -->
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad"/>
+  <img src="https://img.shields.io/badge/Proteus-008080?style=for-the-badge" alt="Proteus"/>
+  <img src="https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white" alt="Altium"/>
+
+  <!-- Modeling & Analysis -->
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
+  <img src="https://img.shields.io/badge/LabVIEW-FF9900?style=for-the-badge&logo=nationalinstruments&logoColor=white" alt="LabVIEW"/>
+
+  <!-- Documentation -->
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/MS Office-0078D4?style=for-the-badge&logo=microsoftoffice&logoColor=white" alt="MS Office"/>
+</p>
 
 ---
 
@@ -55,9 +87,11 @@ To bridge the gap between classical RF/microwave systems and modern AI approache
 
 ## 💡 Let's Connect!
 
-- 🌐 [LinkedIn](www.linkedin.com/in/abdallah-s-yousef)
-- ✉️ a.s.yousef@ieee.org
-- 💬 Open to research collaborations, student mentorship, and applied R&D consulting.
+<!-- LinkedIn Badge -->
+[![💼 Connect with me on LinkedIn](https://img.shields.io/badge/LinkedIn-Abdallah%20S.%20Yousef-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-s-yousef-0a89b713a)
+
+<!-- IEEE Email Badge -->
+[![📧 Email me](https://img.shields.io/badge/Email-a.s.yousef@ieee.org-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.s.yousef@ieee.org)
 
 ---
 
